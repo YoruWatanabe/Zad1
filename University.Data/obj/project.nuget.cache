@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6+kgUKeWp9DS6rywaXbo8DAQ7fL6E2/TvhefOu4bvF//Wh3sa06WOi/DXMOAnjWzNYiIvnVX8sKKh6wW/+Srhg==",
+  "dgSpecHash": "CIgjtTH1we1T8+1OpBjP01c+un3uXKLdVZG+aoxN/1yoc3b9NpS97XewiSvIhzQMnkbIi/UHUc7if6BvusoMeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Data\\University.Data.csproj",
+  "projectFilePath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Data\\University.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yoru\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Yoru\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

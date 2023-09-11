@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yoru\\Downloads\\zad1\\University.Common\\University.Common.csproj": {}
+    "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Common\\University.Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yoru\\Downloads\\zad1\\University.Common\\University.Common.csproj": {
+    "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Common\\University.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Common\\University.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Common\\University.Common.csproj",
         "projectName": "University.Common",
-        "projectPath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Common\\University.Common.csproj",
+        "projectPath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Common\\University.Common.csproj",
         "packagesPath": "C:\\Users\\Yoru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Common\\obj\\",
+        "outputPath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

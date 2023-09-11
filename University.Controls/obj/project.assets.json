@@ -2688,11 +2688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Controls\\University.Controls.csproj",
+      "projectUniqueName": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Controls\\University.Controls.csproj",
       "projectName": "University.Controls",
-      "projectPath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Controls\\University.Controls.csproj",
+      "projectPath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Controls\\University.Controls.csproj",
       "packagesPath": "C:\\Users\\Yoru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Controls\\obj\\",
+      "outputPath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Controls\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2714,8 +2714,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Yoru\\Downloads\\zad1\\University.ViewModels\\University.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.ViewModels\\University.ViewModels.csproj"
+            "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.ViewModels\\University.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.ViewModels\\University.ViewModels.csproj"
             }
           }
         }

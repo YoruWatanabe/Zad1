@@ -21,3 +21,14 @@ C:\Users\Yoru\Downloads\zad1\University.Interfaces\obj\Debug\net6.0\University.I
 C:\Users\Yoru\Downloads\zad1\University.Interfaces\obj\Debug\net6.0\refint\University.Interfaces.dll
 C:\Users\Yoru\Downloads\zad1\University.Interfaces\obj\Debug\net6.0\University.Interfaces.pdb
 C:\Users\Yoru\Downloads\zad1\University.Interfaces\obj\Debug\net6.0\ref\University.Interfaces.dll
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\bin\Debug\net6.0\University.Interfaces.deps.json
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\bin\Debug\net6.0\University.Interfaces.dll
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\bin\Debug\net6.0\University.Interfaces.pdb
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\obj\Debug\net6.0\University.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\obj\Debug\net6.0\University.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\obj\Debug\net6.0\University.Interfaces.AssemblyInfo.cs
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\obj\Debug\net6.0\University.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\obj\Debug\net6.0\University.Interfaces.dll
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\obj\Debug\net6.0\refint\University.Interfaces.dll
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\obj\Debug\net6.0\University.Interfaces.pdb
+C:\Users\Yoru\Source\Repos\Zad1\University.Interfaces\obj\Debug\net6.0\ref\University.Interfaces.dll

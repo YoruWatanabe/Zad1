@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xd/ZwON20aUYOqvzFHck99Wbu7jX5qBx2fwNiObc4YEWq4tclCBtyT5Ba7ErrP+SP5L/cKl8J8QF7evU/SBQOA==",
+  "dgSpecHash": "gDzWO+uVg3sP2x0vPHlCSl3nAE1roHeBvAbARXhq5A8D1OKJpzYBSd2/mnRhcjhhNyrMR4mpnmjBs4dtv83BQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.ViewModels\\University.ViewModels.csproj",
+  "projectFilePath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.ViewModels\\University.ViewModels.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yoru\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Yoru\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview2\\communitytoolkit.mvvm.8.2.0-preview2.nupkg.sha512",

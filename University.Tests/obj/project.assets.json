@@ -3633,11 +3633,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Tests\\University.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Tests\\University.Tests.csproj",
       "projectName": "University.Tests",
-      "projectPath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Tests\\University.Tests.csproj",
+      "projectPath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Tests\\University.Tests.csproj",
       "packagesPath": "C:\\Users\\Yoru\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3659,14 +3659,14 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Yoru\\Downloads\\zad1\\University.Data\\University.Data.csproj": {
-              "projectPath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Data\\University.Data.csproj"
+            "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Data\\University.Data.csproj": {
+              "projectPath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Data\\University.Data.csproj"
             },
-            "C:\\Users\\Yoru\\Downloads\\zad1\\University.Interfaces\\University.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Interfaces\\University.Interfaces.csproj"
+            "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Interfaces\\University.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Interfaces\\University.Interfaces.csproj"
             },
-            "C:\\Users\\Yoru\\Downloads\\zad1\\University.Services\\University.Services.csproj": {
-              "projectPath": "C:\\Users\\Yoru\\Downloads\\zad1\\University.Services\\University.Services.csproj"
+            "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Services\\University.Services.csproj": {
+              "projectPath": "C:\\Users\\Yoru\\Source\\Repos\\Zad1\\University.Services\\University.Services.csproj"
             }
           }
         }

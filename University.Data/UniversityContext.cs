@@ -37,9 +37,9 @@ namespace University.Data
                 new Student { StudentId = 3, Name = "Eugenia", LastName = "Nowakowicz", PESEL = "PESEL3", BirthDate = new DateTime(2021, 06, 08), BirthPlace = "Poznań", Address1 = "ul. Kolorowa 8", Address2 = "", PlaceOfResidence = "Gdanśk", Courses = new List<Course>() });
 
             modelBuilder.Entity<Course>().HasData(
-                new Course { CourseCode = "MAT", Title = "Matematyka", Instructor = "Marta Kowalska", Schedule = "schedule1", Description = "description1", Credits = 5, Department = "department1" },
-                new Course { CourseCode = "BIOL", Title = "Biologia", Instructor = "Halina Katowice", Schedule = "schedule2", Description = "description2", Credits = 6, Department = "department3" },
-                new Course { CourseCode = "FIZ", Title = "Chemia", Instructor = "Jan Nowak", Schedule = "schedule3", Description = "description3", Credits = 7, Department = "department3" }
+                new Course { CourseCode = "MAT", Title = "Matematyka", Instructor = "Marta Kowalska", Schedule = "schedule1", Description = "desc", Credits = 5, Department = "dep1" },
+                new Course { CourseCode = "BIOL", Title = "Biologia", Instructor = "Halina Krakowska", Schedule = "schedule2", Description = "desc", Credits = 6, Department = "dep3" },
+                new Course { CourseCode = "FIZ", Title = "Chemia", Instructor = "Jerzy Nowak", Schedule = "schedule3", Description = "desc", Credits = 7, Department = "dep3" }
             );
             modelBuilder.Entity<Course>().HasKey(x => x.CourseCode);
             

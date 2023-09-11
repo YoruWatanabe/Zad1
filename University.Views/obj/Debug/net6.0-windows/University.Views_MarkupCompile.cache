@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\Yoru\Downloads\zad1\University.Views\obj\Debug\net6.0-windows\
+C:\Users\Yoru\Source\Repos\Zad1\University.Views\obj\Debug\net6.0-windows\
 University.Views
 none
 false
@@ -13,7 +13,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 15-383192415
 
 132038596847
-241569704856
+2411058055570
 AddBookView.xaml;AddCourseView.xaml;AddExamView.xaml;AddStudentView.xaml;BooksView.xaml;CoursesView.xaml;DataTemplates.xaml;EditBookView.xaml;EditCourseView.xaml;EditExamView.xaml;EditStudentView.xaml;ExamsView.xaml;SearchView.xaml;SharedResources.xaml;StudentsView.xaml;
 
 False
